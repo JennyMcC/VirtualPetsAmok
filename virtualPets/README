@@ -1,4 +1,7 @@
-# Virtual Pet description
-My virtual pet is a duck named Fiona. I didn't allow the user to change her name because I am selfish and I like the name Fiona. On a scale from 1-100 (with 1 being 'not very' and 100 being 'very'), the user has to deal with her levels of hunger, thirst, fatigue and boredom. She will die if any of those things get over 100.  If any of those things drop below 15 (after the tick) then the game won't allow the user to use that interaction.
+# Virtual Pet Amok
 
-Also, I'm referencing a Mitch Hedberg joke, I swear I'm not obsessed with Subway..if you know the joke, let's be best friends.
+I broke my pets into four rosters and called on them by type (Organic dogs, organic cats, robo dogs, robo cats).
+ I know there's probably a better way to call on all the pets at once but this is the way I got it to work! If 
+any of the organic pets hunger goes over 100, they starve to death and the game ends. Similarly, if any of the
+ robo pets oil levels drop below 0, they 'rust to death'. Otherwise, the user can feed, water and walk the pets.
+ They can also clean litterboxes and cages, oil the robo pets and adopt a pet.
